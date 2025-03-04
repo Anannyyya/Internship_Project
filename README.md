@@ -47,11 +47,11 @@ Eggs,2025-03-15
 
 ## 📷 Screenshots
 ### 🔹 Home Page
-![App Home](https://via.placeholder.com/600x300)
+![App Home](https://imgur.com/a/Gxo0ktg)
 ### 🔹 Clustering Visualization
-![Cluster Plot](https://via.placeholder.com/600x300)
+![Cluster Plot](https://imgur.com/a/tUeNafb)
 ### 🔹 Recipe Suggestions
-![Recipes](https://via.placeholder.com/600x300)
+![Recipes](https://imgur.com/a/eFBuZOI)
 
 ## 🎯 Future Enhancements
 - **Inventory Management**
