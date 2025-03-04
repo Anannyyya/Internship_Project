@@ -46,12 +46,7 @@ Eggs,2025-03-15
 ```
 
 ## 📷 Screenshots
-### 🔹 Home Page
-![App Home](https://imgur.com/a/Gxo0ktg)
-### 🔹 Clustering Visualization
-![Cluster Plot](https://imgur.com/a/tUeNafb)
-### 🔹 Recipe Suggestions
-![Recipes](https://imgur.com/a/eFBuZOI)
+https://github.com/Anannyyya/Internship_Project/issues/1#issuecomment-2698560688
 
 ## 🎯 Future Enhancements
 - **Inventory Management**
