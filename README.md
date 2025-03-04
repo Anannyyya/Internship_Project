@@ -63,5 +63,5 @@ This project is licensed under the MIT License.
 ---
 
 🔗 **Live Demo**: [Streamlit App](http://192.168.1.14:8501/)  
-📧 **Contact**: [your-anannyyya@gmail.com](mailto:your-anannyyya@gmail.com)
+📧 **Contact**: [anannyyya@gmail.com](mailto:-anannyyya@gmail.com)
 
