@@ -62,6 +62,6 @@ This project is licensed under the MIT License.
 
 ---
 
-🔗 **Live Demo**: [Streamlit App](https://your-streamlit-app-link.streamlit.app)  
-📧 **Contact**: [your-email@example.com](mailto:your-email@example.com)
+🔗 **Live Demo**: [Streamlit App](http://192.168.1.14:8501/)  
+📧 **Contact**: [your-anannyyya@gmail.com](mailto:your-anannyyya@gmail.com)
 
